@@ -1,6 +1,4 @@
-# go-tour-toc
-
-A more usable table of contents for [A Tour of Go](https://go.dev/tour/list)
+# [A Tour of Go](https://go.dev/tour/list)
 
 ## Using the tour
 
@@ -83,8 +81,6 @@ A more usable table of contents for [A Tour of Go](https://go.dev/tour/list)
 
 ## Methods and interfaces
 
-### Methods and interfaces
-
 - [Methods](https://go.dev/tour/methods/1)
 - [Methods are functions](https://go.dev/tour/methods/2)
 - [Methods continued](https://go.dev/tour/methods/3)
@@ -114,15 +110,11 @@ A more usable table of contents for [A Tour of Go](https://go.dev/tour/list)
 
 ## Generics
 
-### Generics
-
 - [Type parameters](https://go.dev/tour/generics/1)
 - [Generic types](https://go.dev/tour/generics/2)
 - [Congratulations!](https://go.dev/tour/generics/3)
 
 ## Concurrency
-
-### Concurrency
 
 - [Goroutines](https://go.dev/tour/concurrency/1)
 - [Channels](https://go.dev/tour/concurrency/2)
